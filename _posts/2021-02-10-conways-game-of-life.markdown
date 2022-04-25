@@ -14,3 +14,6 @@ img: posts/20210210/Game_of_Life.jpg
 ### CORREO ELECTRONICO: escuelasecusanfernando@gmail.com
 
 ### FACEBOOK: ESCUELA SECUNDARIA SAN FERNANDO
+
+![wa link_3g3c7p](https://user-images.githubusercontent.com/99769697/158484500-8031b94f-d3fe-4ebc-a8cc-0663ba1c6c2c.png)
+
