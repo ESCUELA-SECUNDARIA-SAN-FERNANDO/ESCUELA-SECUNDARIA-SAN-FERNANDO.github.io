@@ -9,7 +9,7 @@ img: posts/20210210/Game_of_Life.jpg
 ---
 ### Para contactarse con nosotros es mediante 
 
-###TELEFONO: 55-62-25-86-44
+### TELEFONO: 55-62-25-86-44
 
 ### CORREO ELECTRONICO: escuelasecusanfernando@gmail.com
 
