@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title:  GUIAS
 description: "Guias para los alumnes que las necesiten"
-img: posts/20210318/TicTacToeSml.jpg
+img: posts/img_deleted/TicTacToeSml.jpg
 toc: no # leave empty or erase for no TOC
 ---
 
