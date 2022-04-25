@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title: "SERVICIO SOCIAL"
-img: posts/20210324/starting_adventure.jpg
+img: posts/img_deleted/starting_adventure.jpg
 description: "Servicio social para los alumnos de 5to y 6to semestre"
 ---
 
