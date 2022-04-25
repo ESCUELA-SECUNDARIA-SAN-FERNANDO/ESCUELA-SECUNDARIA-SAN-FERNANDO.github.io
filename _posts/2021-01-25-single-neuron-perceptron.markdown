@@ -5,7 +5,6 @@ show_date: false
 title:  UBICACION
 description: UBICACION DE LA ESCUELA
 img: posts/20210125/Perceptron.jpg 
-tags: [machine learning, coding, neural networks]
 mathjax: NO
 ---
 La direccion de la escuela secundaria san fernando es la sigueinte por si gustan ir al plantel a hacer cualquier tramite etc
