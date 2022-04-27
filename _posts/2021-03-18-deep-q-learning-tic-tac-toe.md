@@ -10,7 +10,7 @@ toc: no # leave empty or erase for no TOC
 
 ### Aqui seran publicadas las guias para los alumnos que las necesiten ya sea para recurar, etc...
 
-## o¿O bien puedes solicitarla aqui ahbajo
+## O bien puedes solicitarla aqui ahbajo
 
 
 <form action="https://formspree.io/f/xbjwpgra/ " method="POST">
