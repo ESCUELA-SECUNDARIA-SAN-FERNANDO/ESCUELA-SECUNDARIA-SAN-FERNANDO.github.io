@@ -14,8 +14,8 @@ img: posts/20210228/MLLibrary.jpg
   <input type="text" id="fn name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="Tus apellidos"><br>
-  <label for="name">CORREO :</label><br>
-  <input type="text" id="fn name" name="name" value="BECA A SOLICITAR"><br>
+  <label for="name">Beca a solicitar :</label><br>
+  <input type="text" id="fn name" name="name" value="TU BECA"><br>
   
  
   
