@@ -18,7 +18,7 @@ En este lado puedes solicitar tu inscripcion a primer año o algun otro servicio
   <label for="name">Inscripcion a primer año :</label><br>
   <input type="text" id="fn name" name="name" value="Selecciona el grado a inscribirte"><br>
   <label for="birthday">Fecha de nacimiento:</label>
-  <input type="date" id="birthday" name="birthday">
+  <input type="date" id="birthday" name="birthday"><br>
  <label for="name">Coloca tu direccioón completa:</label><br>
   <input type="text" id="fn name" name="name" value="Tu direccion"><br>
   <label for="name">Coloca tu edad:</label><br>
